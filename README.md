@@ -9,10 +9,9 @@ A list of changes can be found [here](Changes.md).
 
 To install the modified `mp.wz` file, follow these steps:
 
-1. **Backup**: Before proceeding, make sure to backup your original `mp.wz` file located in the game's installation directory.
+1. **Backup**: Before proceeding, make sure to backup your original `mp.wz` file located in the game's installation directory. The `mp.wz` file can be found in the data directory of your installation
 2. **Download**: Download the modified `mp.wz` file from the releases section of this repository.
 3. **Replace**: Replace the original `mp.wz` file in your Warzone 2100 installation directory with the modified version you downloaded. 
-   - **Standard Installation Path (Windows)**: Typically, the installation directory is `C:\Program Files\Warzone 2100`. The `mp.wz` file can be found in the data directory of your installation.
 
 For multiplayer to work all clients need the same mp.wz file.
 
