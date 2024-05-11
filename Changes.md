@@ -3,7 +3,7 @@
 ## Structure limits
 - Increase all Factory limits to 12
 - Increase `Power Generator` Limit to 32
-- Limit `Archangel Missile Emplacemen`t to 25
+- Limit `Archangel Missile Emplacement` to 25
 - Limit `Ripple Rocket Battery` to 60
 - Limit `Laser Satellite Command Post` to 0
 
