@@ -1,6 +1,6 @@
 # Modified mp.wz for Warzone 2100
 
-This repository contains a modified version of the `mp.wz` file for the game Warzone 2100. The `mp.wz` file is used for multiplayer gameplay, and this modification introduces several enhancements and changes to the multiplayer experience.
+This repository contains a modified version of the `mp.wz` file for the game Warzone 2100. The `mp.wz` file is used for multiplayer gameplay, and this modification introduces several changes to the multiplayer experience.
 
 ## Features
 
@@ -13,6 +13,8 @@ To install the modified `mp.wz` file, follow these steps:
 2. **Download**: Download the modified `mp.wz` file from the releases section of this repository.
 3. **Replace**: Replace the original `mp.wz` file in your Warzone 2100 installation directory with the modified version you downloaded. 
    - **Standard Installation Path (Windows)**: Typically, the installation directory is `C:\Program Files\Warzone 2100`. The `mp.wz` file can be found in the data directory of your installation.
+
+For multiplayer to work all clients need the same mp.wz file.
 
 ## License
 
