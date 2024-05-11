@@ -3,7 +3,7 @@
 This repository contains a modified version of the `mp.wz` file for the game Warzone 2100. The `mp.wz` file is used for multiplayer gameplay, and this modification introduces several changes to the multiplayer experience.
 
 ## Features
-A full list of changes can be found [here](Changes.md).
+A list of changes can be found [here](Changes.md).
 
 ## Installation
 
