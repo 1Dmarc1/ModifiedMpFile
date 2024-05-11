@@ -16,10 +16,6 @@ To install the modified `mp.wz` file, follow these steps:
 
 For multiplayer to work all clients need the same mp.wz file.
 
-## License
-
-This modified `mp.wz` file is released under the same license as the original Warzone 2100 game. Please refer to the LICENSE file included in this repository for more details.
-
 ## Disclaimer
 
 This modification is provided as-is and without warranty. Use at your own risk. The developers and maintainers of this modification are not responsible for any issues or damages that may arise from its use.
